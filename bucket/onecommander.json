@@ -1,13 +1,13 @@
 {
-    "version": "3.5.11.0",
+    "version": "3.5.13.0",
     "description": "A file manager with improved functionality, re-imagined user interface and experience of navigating filesystem and manipulating files.",
     "homepage": "https://onecommander.com/",
     "license": {
         "identifier": "Freeware",
         "url": "http://www.onecommand.com/terms-of-use"
     },
-    "url": "https://onecommander.com/OneCommander3.5.11.0.zip",
-    "hash": "933dce6d7f5e7c7ac54357d0620e86152d6bd4e8aa95f091ded8808519c3db95",
+    "url": "https://onecommander.com/OneCommander3.5.13.0.zip",
+    "hash": "ba62d154c2875da31b7588e2b32d037ab2b0b2c070829f97e4e937e37049a936",
     "shortcuts": [
         [
             "OneCommander.exe",
