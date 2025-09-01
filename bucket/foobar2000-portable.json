@@ -1,13 +1,13 @@
 {
-    "version": "2.24.6",
+    "version": "2.25",
     "description": "An advanced freeware audio player for the Windows platform.",
     "homepage": "https://www.foobar2000.org/",
     "license": {
         "identifier": "Freeware",
         "url": "https://www.foobar2000.org/license"
     },
-    "url": "https://www.videohelp.com/download/foobar2000_v2.24.6.exe#/dl.7z",
-    "hash": "62b0591d7efb263ad54b1561f2c1e6951c29ecd5461fef11102bbaf70dbaff07",
+    "url": "https://www.videohelp.com/download/foobar2000_v2.25.exe#/dl.7z",
+    "hash": "62e395ce50d44ad1090b629815adeb25a81f8bb60b9845ff3911f05e5b3c4cfd",
     "bin": "foobar2000.exe",
     "shortcuts": [
         [
