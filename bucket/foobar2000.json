@@ -1,5 +1,5 @@
 {
-    "version": "2.25",
+    "version": "2.25.1",
     "description": "An advanced freeware audio player for the Windows platform.",
     "homepage": "https://www.foobar2000.org/",
     "license": {
@@ -12,8 +12,8 @@
         "If you want to migrate persisted data to portable version",
         "please rename $persist_dir to \"foobar2000-portable\"."
     ],
-    "url": "https://www.videohelp.com/download/foobar2000_v2.25.exe#/dl.7z",
-    "hash": "e8d9b1f76681dd2d2f0a0e08d8bda837da4c46c36fa1e8423633f0f56643bc0f",
+    "url": "https://www.videohelp.com/download/foobar2000_v2.25.1.exe#/dl.7z",
+    "hash": "70f551d3cf194d7c0d9ef3e8f27275251a0b12497377dc7f722bff6b3e46bc2d",
     "bin": "foobar2000.exe",
     "shortcuts": [
         [
